@@ -1,0 +1,16 @@
+*.idea/
+*__pycache__/
+out/
+python_script/out_augmented/
+
+out_*
+amazon_*
+rotten_*
+yelp_*
+
+roberta_*
+gpt2_*
+electra_*
+xlnet_*
+
+playground.py
